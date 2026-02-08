@@ -14,7 +14,14 @@ To see any changes after running the patcher you have to open one of the availab
 A little change was made near a patch region which did affect the pattern of patch 1 as well as a offsets. \
 Could be made more resilliant by instead searching for function head and looking from there for the appropriate instruction to patch.
 
+# Shapr3D 26.10.10376.0 | update needed
+
+Again a problem with patch 1. \
+This patcher update also introduces two fully original patches found by me. \
+First is to remove the advert popup when opening a project and second is to enable export of enterprise exclusive formats.
+
 # Guide
 
 Just run it! Of course you also need to have Shapr3D open.
+
 
