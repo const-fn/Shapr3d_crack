@@ -23,12 +23,13 @@ First is to remove the advert popup when opening a project and second is to enab
 # Shapr3D 26.21.10452 | update needed (again 😠)
 
 Problem with my anti popup patch. A bit changed now and hopefully more update resilient. \
-I have also been working on a new patching method that does not relies on patching license check functions. \
+I have also been working on a new method that does not rely on patching license check functions. \
 It should be a more **permanent solution** but it is currently still under development.
 
 # Guide
 
 Just run it! Of course you also need to have Shapr3D open.
+
 
 
 
