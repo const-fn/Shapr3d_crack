@@ -20,8 +20,15 @@ Again a problem with patch 1. \
 This patcher update also introduces two fully original patches found by me. \
 First is to remove the advert popup when opening a project and second is to enable export of enterprise exclusive formats.
 
+# Shapr3D 26.21.10452 | update needed (again 😠)
+
+Problem with my anti popup patch. A bit changed now and hopefully more update resilient. \
+I have also been working on a new patching method that does not relies on patching license check functions. \
+It should be a more **permanent solution** but it is currently still under development.
+
 # Guide
 
 Just run it! Of course you also need to have Shapr3D open.
+
 
 
