@@ -32,7 +32,7 @@ Problem with patch 1. \
 Recently it seems to break with every update. A completely redo of the patcher is in progress to fix that. \
 No idea when I will finish it though.
 
-# Shapr3D 26.40.10572.0 | upate needed
+# Shapr3D 26.40.10572.0 | update needed
 
 Patch 1. Jump offset change.
 
