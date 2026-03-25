@@ -36,6 +36,12 @@ No idea when I will finish it though.
 
 Patch 1. Jump offset change.
 
+# Known Problems
+
+Some functionality might not work (will not trigger). Report it! \
+This is mainly caused by a limitation of a certain patch. \
+Without deep knowledge of the .NET native AOT runtime this will be unfixable for now.
+
 # Guide
 
 Just run it! Of course you also need to have Shapr3D open.
