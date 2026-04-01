@@ -36,6 +36,10 @@ No idea when I will finish it though.
 
 Patch 1. Jump offset change.
 
+# Shapr3D 26.50.10685.0 | update needed
+
+Couple things broke. It seems this update had some bigger codebase changes.
+
 # Known Problems
 
 Some functionality might not work (will not trigger). Report it! \
