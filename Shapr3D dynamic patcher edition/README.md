@@ -40,6 +40,12 @@ Patch 1. Jump offset change.
 
 Couple things broke. It seems this update had some bigger codebase changes.
 
+# Shapr3D 26.110.11116.0 | update needed
+
+Litteraly a single bit broke it. That change breaking it should not happen again, I made some changes. \
+Added experimental enterprise import patch I reverse engineered. Only tested .jt/.catpart! \
+Obfuscated the binary a tiny bit + added some checks to ensure console is not being hidden (because of resellers).
+
 # Known Problems
 
 Some functionality might not work (will not trigger). Report it! \
